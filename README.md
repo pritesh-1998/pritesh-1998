@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritesh Lathia</h1>
 <h3 align="center">A passionate computer engineering student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritesh-1998" alt="pritesh-1998" /></a> </p>
-
 - 🌱 I’m currently learning **Selenium and Django**
 
 - 💬 Ask me about **Python,Git,linux,web-site testing..**
