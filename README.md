@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritesh lathia</h1>
 <h3 align="center">A passionate computer engineering student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritesh-1998&label=Profile%20views&color=0e75b6&style=flat" alt="pritesh-1998" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritesh-1998" alt="pritesh-1998" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@gameboi969" target="blank"><img src="https://img.shields.io/twitter/follow/@gameboi969?logo=twitter&style=for-the-badge" alt="@gameboi969" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gameboi969" target="blank"><img src="https://img.shields.io/twitter/follow/gameboi969?logo=twitter&style=for-the-badge" alt="gameboi969" /></a> </p>
 
 - 🌱 I’m currently learning **Golang and Pentesting**
 
@@ -21,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@gameboi969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gameboi969" height="30" width="40" /></a>
+<a href="https://twitter.com/gameboi969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gameboi969" height="30" width="40" /></a>
 <a href="https://instagram.com/_pritesh1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pritesh1998" height="30" width="40" /></a>
 </p>
 
