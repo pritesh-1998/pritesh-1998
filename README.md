@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **plathia1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11xT8PnA0EjB0eh5IVPlt5vnuKjjjtZNw/view?usp=sharing](https://drive.google.com/file/d/11xT8PnA0EjB0eh5IVPlt5vnuKjjjtZNw/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGF4dkUrhQ/q6eYL3EP2YhxvemcsSZxwQ/view?utm_content=DAGF4dkUrhQ&utm_campaign=designshare&utm_medium=link&utm_source=editor">CLick Here</a>
 
 - ⚡ Fun fact **I love gamming**
 
